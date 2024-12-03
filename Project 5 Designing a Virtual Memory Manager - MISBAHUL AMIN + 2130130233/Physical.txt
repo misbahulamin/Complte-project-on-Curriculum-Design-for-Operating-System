@@ -1,0 +1,2 @@
+TLB hit ratio : hit (0) out of (0) hit total
+LRU hit ratio : hit (0) out of (0) hit total
